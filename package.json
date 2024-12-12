@@ -1,0 +1,14 @@
+{
+  "name": "diacritics-to-simple-latin",
+  "version": "1.0.0",
+  "description": "Convert diacritics to simple latin characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
+}

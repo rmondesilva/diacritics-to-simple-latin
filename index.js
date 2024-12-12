@@ -1,0 +1,1 @@
+export { convertDiacritics } from './convertDiacritics';
