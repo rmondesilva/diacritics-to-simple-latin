@@ -1,0 +1,1 @@
+# diacritics-to-simple-latin
