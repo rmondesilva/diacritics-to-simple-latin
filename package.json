@@ -1,14 +1,60 @@
 {
-  "name": "diacritics-to-simple-latin",
+  "name": "@rmondesilva/diacritics-to-simple-latin",
   "version": "1.0.0",
   "description": "Convert diacritics to simple latin characters.",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
   },
-  "author": "",
+  "author": "Richmond De Silva",
   "license": "ISC",
   "devDependencies": {
     "vitest": "^2.1.8"
-  }
+  },
+  "dependencies": {
+    "cac": "^6.7.14",
+    "chai": "^5.1.2",
+    "assertion-error": "^2.0.1",
+    "check-error": "^2.1.1",
+    "debug": "^4.4.0",
+    "deep-eql": "^5.0.2",
+    "esbuild": "^0.21.5",
+    "es-module-lexer": "^1.5.4",
+    "estree-walker": "^3.0.3",
+    "expect-type": "^1.1.0",
+    "magic-string": "^0.30.15",
+    "loupe": "^3.1.2",
+    "ms": "^2.1.3",
+    "nanoid": "^3.3.8",
+    "picocolors": "^1.1.1",
+    "pathe": "^1.1.2",
+    "pathval": "^2.0.0",
+    "siginfo": "^2.0.0",
+    "stackback": "^0.0.2",
+    "rollup": "^4.28.1",
+    "source-map-js": "^1.2.1",
+    "tinybench": "^2.9.0",
+    "postcss": "^8.4.49",
+    "std-env": "^3.8.0",
+    "tinyrainbow": "^1.2.0",
+    "tinyexec": "^0.3.1",
+    "tinyspy": "^3.0.2",
+    "tinypool": "^1.0.2",
+    "vite": "^5.4.11",
+    "vite-node": "^2.1.8",
+    "why-is-node-running": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmondesilva/diacritics-to-simple-latin.git"
+  },
+  "keywords": [
+    "diacritics",
+    "umlaut",
+    "utility"
+  ],
+  "bugs": {
+    "url": "https://github.com/rmondesilva/diacritics-to-simple-latin/issues"
+  },
+  "homepage": "https://github.com/rmondesilva/diacritics-to-simple-latin#readme"
 }
